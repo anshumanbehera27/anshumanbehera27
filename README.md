@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anshuman Behera</h1>
-<h3 align="center">A passionate Andriod developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanbehera27" alt="anshumanbehera27" /></a> </p>
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **Hi, I'm Anshuman Behera, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
+- 💬 Ask me about **Hi, I'm Anshuman Behera, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (4st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
 
 - 📫 How to reach me **beheraanshuman9@gmail.com**
 
