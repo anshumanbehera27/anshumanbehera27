@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 💬 Ask me about **Hi, I'm Anshuman Behera, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (4st year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
+- 💬 Ask me about **Hi, I'm Anshuman Behera, A Student and Learner 🚀 from Odisha India, currently 💻 doing my undergraduate BTECH (4th year) from Lovely professional university and I am passionate about technology and want to learn & explore new technologies.Love to solve problem .**
 
 - 📫 How to reach me **beheraanshuman9@gmail.com**
 
