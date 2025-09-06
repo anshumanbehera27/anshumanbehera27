@@ -160,7 +160,7 @@ public class AnshumanBehera {
   <a href="mailto:beheraanshuman9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/anshuman-b-b863841ba/">
+  <a href="https://www.linkedin.com/in/anshuman-behera27/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/anshumanbehera27">
@@ -170,18 +170,10 @@ public class AnshumanBehera {
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
-
-<div align="center">
-  <a href="https://www.kaggle.com/anshumanbehera27">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://twitter.com/@anshuma13668129">
+  <a href="https://x.com/anshumanbehera_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/anshuman_behera/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@anshumanbehera">
+  <a href="https://medium.com/@beheraanshuman9">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
@@ -206,7 +198,6 @@ public class AnshumanBehera {
 </div>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 </div>
@@ -216,5 +207,3 @@ public class AnshumanBehera {
   <p><em>"Code is poetry written in logic"</em></p>
   <p>⭐ Star my repositories if you find them interesting!</p>
 </div>
-
-
